@@ -17,8 +17,7 @@
     "streamline-runtime": "^1.0.19",
     "babel-core": "^6.3.26",
     "babel-plugin-streamline": "^2.0.7",
-    "istanbul": "^0.4.2",
-    "qunit": "git+https://github.com/Sage/node-qunit#directory-coverage"
+    "qunit": "git+https://github.com/Sage/node-qunit#sage"
   },
   "scripts": {},
   "main": "index.js",
