@@ -1,7 +1,7 @@
 {
   "name": "streamline-helpers",
   "description": "helpers to package streamline.js libraries",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "license": "MIT",
   "author": {
     "name": "Bruno Jouhier"
@@ -14,10 +14,14 @@
     "node": ">=0.10.8"
   },
   "dependencies": {
-    "streamline-runtime": "^1.0.19",
     "babel-core": "^6.3.26",
+    "babel-plugin-flow-comments": "^6.3.19",
     "babel-plugin-streamline": "^2.0.7",
-    "qunit": "git+https://github.com/Sage/node-qunit#sage"
+    "babel-plugin-transform-class-properties": "^6.9.1",
+    "dts-bundle": "^0.4.3",
+    "qunit": "git+https://github.com/Sage/node-qunit#sage",
+    "streamline-runtime": "^1.0.19",
+    "typescript": "^1.8.10"
   },
   "scripts": {},
   "main": "index.js",
