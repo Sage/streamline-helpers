@@ -14,14 +14,14 @@
     "node": ">=0.10.8"
   },
   "dependencies": {
-    "babel-core": "^6.3.26",
-    "babel-plugin-transform-flow-comments": "^6.8.0",
-    "babel-plugin-streamline": "^2.0.7",
-    "babel-plugin-transform-class-properties": "^6.9.1",
-    "dts-bundle": "^0.4.3",
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-flow-comments": "^6.22.0",
+    "babel-plugin-streamline": "^2.0.26",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "dts-bundle": "^0.7.3",
     "qunit": "git+https://github.com/Sage/node-qunit#sage",
-    "streamline-runtime": "^1.0.19",
-    "typescript": "^2.0.0"
+    "streamline-runtime": "^2.0.0",
+    "typescript": "^3.7.2"
   },
   "scripts": {},
   "main": "index.js",
